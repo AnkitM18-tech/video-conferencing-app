@@ -1,4 +1,4 @@
-/node_modules/
-/ankitChatappBackend/
+video-conferencing-app/node_modules
+video-conferencing-app/ankitchatappBackend
 /build/
 /dist/
